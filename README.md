@@ -15,7 +15,7 @@ Roleta para sortear itens com animação, sorteio configurado para 24 items.
 ## Instalação e uso
 
 Clone o projeto:
-git clone https://github.com/PauloFelipeM/roleta.git
+git clone https://github.com/PauloFelipeM/sorteio-valores-formato-rollete.git
 
 Abra no navegador o arquivo index.html
 Clique no centro da roleta ou aperte a tecla espaço.
